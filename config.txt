@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx63d4ee66b2c41933",
+# 公众号appSecret
+"app_secret": "74aa0a41ea6dc918f91692033f326729",
+# 模板消息id
+"template_id": "IOjy2ifbsxqNiqMjNLDhtO49GRsnUfnknSv2D5fGjk0",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["ol6wj50Ob2oGC9kYWIHpjGPufFiQ"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "0007973ef5114096849c1c20b69cc28c",
+# 天行数据apikey
+"tian_api": "070585af69e9aaca65eda66e5b42193b",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "哈尔滨市",
+# 生日1
+"birthday1": {"name": "王宝玉", "birthday": "2003-12-25"},
+#在这个世上已经 ，格式同上
+"love_date": "2003.12.25",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
